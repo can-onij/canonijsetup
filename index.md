@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cànòn.còm/ijsètup
 
 You can use the [editor on GitHub](https://github.com/can-onij/canonijsetup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
