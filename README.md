@@ -1,1 +1,1 @@
-# canonijsetup
+# Cànòn.còm/ijsètup
